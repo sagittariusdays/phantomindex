@@ -1,5 +1,4 @@
 # PINGTEST
-# This program is aimed to monitoring the KANKYO_Visualizer, to check whether it is working.
 # MODULE 1
 
 # ping IPs
